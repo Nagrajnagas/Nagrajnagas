@@ -1,7 +1,8 @@
 # Nagarajnagas
 
 # 💫 About Me:
-I'm currently working on<br><br>I'm looking to collaborate on<br><br>I'm looking for help with<br><br>I'm currently learning<br><br>Ask me about<br><br>Fun fact
+Python Developer | Django | REST APIs
+Building scalable backend solutions and intelligent web applications. Focused on clean code and efficient database design.
 
 
 ## 🌐 Socials:
