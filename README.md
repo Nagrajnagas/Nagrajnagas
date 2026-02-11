@@ -1,4 +1,4 @@
-# Nagarajnagas
+# Nagaraj S
 
 # 💫 About Me:
 Python Developer | Django | REST APIs
