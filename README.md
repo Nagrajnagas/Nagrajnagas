@@ -3,8 +3,7 @@
 # 💫 About Me:
 Python Developer | Django | REST APIs
 Building scalable backend solutions and intelligent web applications. Focused on clean code and efficient database design.
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=google-chrome&logoColor=white)](https://nagaraj-s-portfolio.netlify.app/)
-
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0A66C2?style=for-the-badge)](https://nagaraj-s-portfolio.netlify.app/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nagarajs_14) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nagaraj-s7483) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nagarajnag7483@gmail.com) [![Leetcode](https://img.shields.io/badge/leetcode-%23E4405F.svg?logo=leetcode&logoColor=white)](https://leetcode.com/progress/) [![Hacker Rank](https://img.shields.io/badge/HackerRank-D14836?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/submissions/all)
