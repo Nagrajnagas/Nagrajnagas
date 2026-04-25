@@ -3,6 +3,7 @@
 # 💫 About Me:
 Python Developer | Django | REST APIs
 Building scalable backend solutions and intelligent web applications. Focused on clean code and efficient database design.
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://nagaraj-s-portfolio.netlify.app/) 
 
 
 ## 🌐 Socials:
