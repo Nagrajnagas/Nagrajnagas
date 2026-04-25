@@ -23,6 +23,7 @@ Focused on clean architecture, performance optimization, and real-world problem 
 ![](https://github-readme-stats.vercel.app/api?username=Nagrajnagas&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Nagrajnagas&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nagrajnagas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+*.py linguist-detectable
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Nagrajnagas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
